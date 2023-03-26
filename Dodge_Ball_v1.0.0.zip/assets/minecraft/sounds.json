@@ -1,0 +1,84 @@
+{
+	"custom.gameplay": {
+		"sounds": [
+		    {
+			"name": "music/game",
+			"stream": true,
+			"preload": true
+		    }
+		]
+	},
+	"custom.countdown": {
+		"sounds": [
+		    {
+			"name": "music/count_down",
+			"stream": true,
+			"preload": true
+		    }
+		]
+	},
+	"custom.whoose": {
+		"sounds": [
+		    {
+			"name": "whoosh"
+		    }
+		]
+	},
+	"custom.alarm": {
+		"sounds": [
+		    {
+			"name": "alarm"
+		    }
+		]
+	},
+	"custom.ball_spawn": {
+		"sounds": [
+		    {
+			"name": "ball_spawn"
+		    }
+		]
+	},
+	"custom.win": {
+		"sounds": [
+		    {
+			"name": "music/win"
+		    }
+		]
+	},
+	"custom.loose": {
+		"sounds": [
+		    {
+			"name": "music/loose"
+		    }
+		]
+	},
+	"custom.end": {
+		"sounds": [
+		    {
+			"name": "music/end"
+		    }
+		]
+	},
+	"custom.sound_end": {
+		"sounds": [
+		    {
+			"name": "game_end"
+		    }
+		]
+	},
+	"custom.fallblock": {
+		"sounds": [
+		    {
+			"name": "blockfall"
+		    }
+		]
+	},
+	"custom.powerup": {
+		"sounds": [
+		    {
+			"name": "power_up"
+		    }
+		]
+	}
+
+}
